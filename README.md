@@ -42,7 +42,7 @@ __OUTPUT:__ values provided by the c++ program to the simulator
 
 ## Other Important Dependencies
 
-Refer [Udacity link's](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project) **Other Important Dependencies** section.
+Refer [Udacity link's](https://github.com/udacity/CarND-Unscented-Kalman-Filter-Project) **Other Important Dependencies** section.
 
 ## Basic Build Instructions
 
